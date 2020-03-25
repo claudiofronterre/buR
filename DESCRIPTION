@@ -1,0 +1,17 @@
+Package: buR
+Title: Facilitates everyday R tasks for bu pelosh
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Claudio",
+           family = "Fronterre",
+           role = c("aut", "cre"),
+           email = "c.fonterr@lancaster.ac.uk",
+           comment = c(ORCID = "https://orcid.org/0000-0001-6723-9727"))
+Description: This packages contains a series of functions that I developed during
+             my career that help me with everyday (and also less frequent) tasks.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Suggests: 
+    testthat
+RoxygenNote: 7.0.2
